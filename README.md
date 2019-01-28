@@ -12,7 +12,9 @@ VIDEO TUTORIAL: [Python - Install Anaconda, Jupyter Notebook, Spyder on Windows 
 
 1. To create a new environment, type:
 
-     conda create -n ml27 python=2.7
+```
+conda create -n ml27 python=2.7
+```
 
 2. When conda asks you to proceed, type y:
 
